@@ -3788,3 +3788,13 @@
 /Library/Artifacts/f9/f92a9958a2a20ac96bffa079708acdbd filter=lfs diff=lfs merge=lfs -text
 /Library/Artifacts/fa/fa26ace9f0eea969957e4b52f2d70938 filter=lfs diff=lfs merge=lfs -text
 *.plantuml filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/15/1509bee91758f5b3a8dc14b5f14a4273 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/2c/2c1667ffe8e3e3fa4e0b5e0bb79318aa filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/78/786b61d6efa228c2d0e7e55e0cf14d33 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/83/834e69fc58e77c1af3840197157aaa74 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/b7/b75a55c19da312d4bedcd5364d607ddf filter=lfs diff=lfs merge=lfs -text
+*.hash filter=lfs diff=lfs merge=lfs -text
+/Temp/UnityLockfile filter=lfs diff=lfs merge=lfs -text
+/Temp/UnityTempFile-ef06e856e3d3eb34a85fc6c3f61d8702 filter=lfs diff=lfs merge=lfs -text
+*.backup filter=lfs diff=lfs merge=lfs -text
+/Temp/workerlic filter=lfs diff=lfs merge=lfs -text
