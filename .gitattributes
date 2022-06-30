@@ -1,5 +1,6 @@
 Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.2/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.2/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 *.csproj filter=lfs diff=lfs merge=lfs -text
 *.meta filter=lfs diff=lfs merge=lfs -text
@@ -3828,5 +3829,4 @@ Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.2/data~/pay
 /Library/Artifacts/de/deb21d14d326b2128546cdd4a832bdcb filter=lfs diff=lfs merge=lfs -text
 /Library/Artifacts/df/df65eea8186b373918362c651ab80558 filter=lfs diff=lfs merge=lfs -text
 /Library/Artifacts/fc/fc2fcb65f9d8aa4ef3978f64d3e00178 filter=lfs diff=lfs merge=lfs -text
-*.7z filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
